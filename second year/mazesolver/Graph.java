@@ -1,6 +1,4 @@
-//Hello my name is Que Hung Dang and this is 
-// code for 2210 assignment 5  this is class graph to construct a proper graph for the maze class
-//251205417
+
 
 //import java utilities so we can create a linked list to store all the incident edges
 import java.util.*;
