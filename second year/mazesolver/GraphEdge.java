@@ -1,6 +1,4 @@
-//this class represents an edge inside the graph 
-//Que Hung Dang
-// 251205417
+
 
 public class GraphEdge {
 	
