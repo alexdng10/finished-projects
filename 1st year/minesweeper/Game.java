@@ -1,5 +1,5 @@
 import java.awt.Color;
-//Hello my name is Que Hung Dang, this is my Assignment 4 submission. Student id 251205417.
+
 // This class contains the Minesweeper-related code. It is used to initialize the game board,
 // determine the numbers for each cell (which indicate how many bombs are in neighbouring
 // cells), the recursive "region clearing", etc.
