@@ -1,4 +1,4 @@
-// Hello my name is Que Hung Dang, this is my Assignment 4 submission. Student id 251205417.
+
 // This class represents a 2D grid that is created as an array of singly linked list.
 public class LinkedGrid<T> {
 // private variables for this class to create the grid.
