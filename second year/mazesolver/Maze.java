@@ -1,7 +1,6 @@
 //this is the maze class that construct the maze from an input file 
 // and then use the maze that constructed to create a solve method if there exist a way to show the path from the
 // start to exit node. 
-//name Que Hung Dang 251205417
 
 
 // import all the java file read and functions to create a stack and read input files.
