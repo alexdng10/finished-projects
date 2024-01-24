@@ -1,6 +1,4 @@
-//name Que Hung Dang
-// 251205417
-//this class represent a node of a graph
+
 
 
 public class GraphNode {
