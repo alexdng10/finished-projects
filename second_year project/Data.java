@@ -1,4 +1,4 @@
-//My name is Que Hung Dang and this is my code for Data.java 251205417
+
 
 //create a class data to store all the string and score of per movement of each table possibilities
 public class Data {
