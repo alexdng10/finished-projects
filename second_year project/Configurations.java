@@ -1,4 +1,4 @@
-//My name is Que Hung Dang and this is my code for Configurations.java 251205417
+
 
 //This class configurations implements all the methods needed by algorithm computerPlay to determine the best move
 public class Configurations {
