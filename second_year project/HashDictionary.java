@@ -1,4 +1,4 @@
-//My name is Que Hung Dang and this is my code for HashDictionary.java 251205417
+
 
 // import java util to use built in linkedlist for chaining and creating the hash table operations.
 import java.util.*;
